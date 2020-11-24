@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG5786
   title: ནི་གུའི་ཆོས་དྲུག་གྲུབ་པའི་དགོངས་རྒྱན་
-  volume: ''
+  volume:
+    746f554833614ea89a9c80fb09e6c0a5:
+      image_group_id: I1KG5822
+      title: Volume 1 of ni gu'i chos drug grub pa'i dgongs rgyan
+      volume_number: 1
+      total_pages: 312
   author: ''
+ebook_metadata:
+  title: ནི་གུའི་ཆོས་དྲུག་གྲུབ་པའི་དགོངས་རྒྱན་
+  author: ''
+  sku: P000388
+  cover: cover.jpg
+  layers:
+  - pagination
